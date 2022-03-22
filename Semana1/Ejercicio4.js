@@ -348,5 +348,5 @@ let peliculas = [
 // esta vez utilizamos el metodo filter() 
 let pelisIngles = peliculas.filter(peli => peli.original_language == "en");
 
-//imprimimos en la consola en forma de tabla para mejor orden
+//imprimimos en la consola en forma de tabla para mejor orden.
 console.table(pelisIngles);

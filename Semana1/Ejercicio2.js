@@ -10,7 +10,7 @@ function multiple(valor, multiple) {
             return false;
 };
 
-// Primero creamos un array donde los valores se puedan almacenar
+// Primero creamos un array donde los valores se puedan almacenar.
 let multiplo_7=[];
 
 // Creamos un bucle del 1 al 343 (ya que 7 x 49 es igual a 343)

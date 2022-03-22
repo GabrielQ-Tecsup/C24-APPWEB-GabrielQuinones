@@ -21,6 +21,6 @@ if (i > param3) {
     mayor = param3
 };
 
-// Lo imprimimos en la consola
+// Lo imprimimos en la consola.
 console.log("El Numero Mayor es" , mayor);
     

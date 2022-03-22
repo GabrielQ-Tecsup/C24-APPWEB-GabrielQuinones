@@ -21,5 +21,5 @@ const calcularVentas = (cantVentas) => {
 // Creamos la ventana para ingresar la cantidad de ventas
 let Ventas = +prompt("Ingrese la cantidad de sus Ventas:");
 
-// Imprimimos en la consola
+// Imprimimos en la consola.
 console.log(calcularVentas(Ventas));
